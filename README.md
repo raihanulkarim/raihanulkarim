@@ -18,17 +18,20 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
+- :telescope: Passionate for building web applications.
 - 🌱 I’m a technology enthusiasts
-- 🔭 I’m currently doing Bachelor in Computer Science and Engineering
+- 🔭 I’m a Graduate in Computer Science and Engineering
+- ⚡ Fun fact: 
+   - Love to Read Books on History
+   - Love to Play and Watch Cricket
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- ... 
 -->
 ---
 
